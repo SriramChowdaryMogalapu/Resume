@@ -1,2 +1,2 @@
-# resume
-Shows my resume
+# Resume
+Shows My Resume
